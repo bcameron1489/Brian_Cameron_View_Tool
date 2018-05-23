@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+  @copyright = BrianCameronViewTool::Renderer.copyright 'Brian Cameron', 'All rights reserved'
+```
 
 ## Development
 
